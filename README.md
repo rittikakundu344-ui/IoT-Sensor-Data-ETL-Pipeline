@@ -1,4 +1,4 @@
-IoT Sensor Data ETL Pipeline
+        🌡️ IoT Sensor Data ETL Pipeline
 Extract. Transform. Load. Analyse IoT sensor data with Python and MySQL.
 A Python-based ETL project that processes IoT sensor readings from CSV
 files, performs data cleaning and transformation, and loads structured
