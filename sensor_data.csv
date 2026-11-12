@@ -1,0 +1,11 @@
+sensor_id,temperature,humidity,location
+S101,28.5,65,Room A
+S102,30.2,70,Room B
+S103,27.8,60,Room A
+S104,32.1,75,Room C
+S105,29.4,68,Room B
+S106,,72,Room A
+S107,31.5,80,Room C
+S102,30.2,70,Room B
+S108,26.9,55,Room A
+S109,33.0,,Room C
